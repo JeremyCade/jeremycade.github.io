@@ -8,14 +8,14 @@ relative_permalinks: true
 
 # Setup
 title:            Jeremy Cade
-tagline:          'Incoherent ramblings of a Software Engineer, Academic in Training and all round nerd.'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://jeremycade.com
+tagline:          "I'm sorry, but that didn't make any sense."
+description:      'The incoherent ramblings of a Father, Software Engineering, Academic in Training, Baseball Coach and all round nerd.'
+url:              http://www.jeremycade.com
 baseurl:          /
 
 author:
   name:           'Jeremy Cade'
-  url:            http://jeremycade.com
+  url:            http://www.jeremycade.com
 
 paginate:         5
 
