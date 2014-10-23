@@ -47,4 +47,6 @@ AussieWeb Pty Ltd is a technology company that specialises developing online mar
 
 **Google+**: [Jeremy Cade](https://plus.google.com/+JeremyCade/)
 
+**LinkedIn**: [Jeremy Cade]()
+
 **Github**: [JeremyCade](https://github.com/JeremyCade)
