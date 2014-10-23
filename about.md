@@ -7,24 +7,24 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Publications
+Cade, J., Wen, L. & Rout, T. (2014) Issues in Applying Model Based Process Improvement in the Cloud Computing Domain. Software Process Improvement and Capability Determination, CCIS 477, Springer, Heidelberg
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Research Organisations
+Machine Intelligence and Pattern Analysis Laboratory [MiPAL](http://www.mipal.net.au), Griffith University, Brisbane Australia.
 
-## Setup
+### Education
+BA in Information Technology (Artificial Intelligence), [Griffith University](http://www.griffith.edu.au)
+MA in Information Technology (Software Development), [Griffith University](http://www.griffith.edu.au)
 
-Some fun facts about the setup of this project include:
+### Baseball
+President, [Indians Baseball Club](http://www.indians.org.au) (2012-2014)
+NCAS 4, Accredited Baseball Coach
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Contact
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Email: [me@jeremycade.com](mailto://me@jeremycade.com)
+Twitter: [@jcade83](https://twitter.com/jcade83)
+Google+ [Jeremy Cade](https://plus.google.com/+JeremyCade/)
