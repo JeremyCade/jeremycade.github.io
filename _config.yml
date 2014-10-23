@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Jeremy Cade
 tagline:          "I'm sorry, but that didn't make any sense."
-description:      'The incoherent ramblings of a Father, Software Engineering, Academic in Training, Baseball Coach and all round nerd.'
+description:      'The incoherent ramblings of a Father, Software Engineer, Academic in Training, Baseball Coach and all round nerd.'
 url:              http://www.jeremycade.com
 baseurl:          /
 
