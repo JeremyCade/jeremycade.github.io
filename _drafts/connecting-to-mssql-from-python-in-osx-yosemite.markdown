@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Connecting to SQL Server from python in OS X Yosemite”
+title:  “Connecting to SQL Server with python in OS X Yosemite”
 date:   2014-11–05
 categories: python sql-server osx yosemite
 ---
