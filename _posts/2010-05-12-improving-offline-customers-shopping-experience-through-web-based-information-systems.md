@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improving offline customers shopping experience through web-based Information Systems."
-date:   2010-05-12 11:00:00
+date:   2010-05-12
 categories: e-commerce information systems
 ---
 
@@ -73,6 +73,7 @@ Informal discussions were also held with the general public in order to gauge th
 As a result of our survey and in-store observations we have identified two key areas that we feel may be improved through the appropriate use of available Information Technologies, and reflect Woolworths strategic goals.
 
 These are:
+
 - Awareness of the current weekly specials.
 - Awareness of store layout and product placement locations.
 
@@ -129,6 +130,7 @@ Currently Woolworths’ major competition, Coles, operates an eNewsletter, which
 Email newsletters are a proven low cost, measurable, communication method. There are numerous Email Marketing service providers who specialises in large scale mass mail-outs for corporate clients, such as Vision6 (Vision6: Our Clients 2010) and Gen3Media (Gen3Media: Corporate 2010). Each of these providers allows for personalisation of the emails sent to each customer based on a number of customisable factors. 
 
 These could include:
+
 - Customers geographic location
 - Customers previous purchasing habits
 - Customers indicated items of interest i.e.; Health Foods, Fresh fruit or vegetables etc.
@@ -136,6 +138,7 @@ These could include:
 As Email Marketing is provided as “Software as a Service” by a third party provider no additional infrastructure would need to purchase on the part of Woolworths. A small investment would need to be made on modifying the Woolworths PC website to accommodate email capture to be used with the Email Marketing services.
 
 Benefits of the proposed weekly email system include:
+
 - Increased level of communication with customers.
 - Increased customer awareness of available weekly specials
 
@@ -153,12 +156,14 @@ Again at this stage none of Woolworths’ major competitors (eg. Coles) have imp
 There are a number of benefits associated with this type of system, not only from the customers prospective, but also for the efficiency of Woolworths’ in-store operations.
 
 From the customers perspective a product mapping and location systems allows for:
+
 - Decreased periods of time spent waiting for assistance.
 - Decreased periods of time spent looking for specific products.
 - Increased levels of convenience when searching for products.
 - Increased awareness of potential savings or specials.
 
 From Woolworths’ operation perspective a product mapping and location system allows for:
+
 - Decrease in the amount of interruptions to staff performing stocking, or re-shelving duties.
 - Decrease in the number of staff needed to effectively manage customers’ expectations in-store. Resulting in HR cost savings.
 
@@ -175,23 +180,16 @@ Currently none of Woolworths major competitors make use of geolocation technolog
 
 # 6. Reference List:
 InvestSMART: Woolworths Limited (WOW), 2010, viewed 4th May 2010,
-<http://www.investsmart.com.au/shares/asx/Woolworths-WOW.asp>
+[http://www.investsmart.com.au/shares/asx/Woolworths-WOW.asp](http://www.investsmart.com.au/shares/asx/Woolworths-WOW.asp)
 
 Gen3Media: Corporate, 2010, viewed 7th May 2010,
-<http://www.gen3media.com.au/index.php?option=com_content&task=view&id=43&Itemid=70>
+[http://www.gen3media.com.au/index.php?option=com_content&task=view&id=43&Itemid=70](http://www.gen3media.com.au/index.php?option=com_content&task=view&id=43&Itemid=70)
 
 Vision6: Our Clients, 2010, viewed 7th May 2010,
-<http://www.vision6.com.au/our_clients.html>
+[http://www.vision6.com.au/our_clients.html](http://www.vision6.com.au/our_clients.html)
 
 W3C (2009), ‘Geolocation API Specification’, 2010, viewed 9th May 2010,
-<http://www.w3.org/TR/geolocation-API/>
+[http://www.w3.org/TR/geolocation-API/](http://www.w3.org/TR/geolocation-API/)
 
 Woolworths Limited (2009), ‘Annual Report’
-<http://thomson.mobular.net/thomson/7/3022/4089/>
-
-<hr />
-**University**: Griffith University, Brisbane, Australia
-**Degree**: Bachelor of Information Technology Accelerated
-**Date**: May 12, 2010
-**Class/Course**: 1410ICT Introduction to Information Systems
-**Author(s)**: Jeremy Cade, Robert Forrester
+[http://thomson.mobular.net/thomson/7/3022/4089/](http://thomson.mobular.net/thomson/7/3022/4089/)

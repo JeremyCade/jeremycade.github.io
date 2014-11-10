@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Charles Babbage’s Analytical Engine"
-date:   2010-04-15 11:00:00
+date:   2010-04-15
 categories: computing history
 ---
 

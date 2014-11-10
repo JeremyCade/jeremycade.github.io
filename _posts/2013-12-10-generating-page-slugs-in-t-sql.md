@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generating Page Slugs in T-SQL!"
-date:   2013-12-10 09:46:06
+date:   2013-12-10
 categories: t-sql page-slugs
 ---
 
@@ -11,29 +11,29 @@ After posting the question to [StackOverflow](http://stackoverflow.com/questions
 
 The modified code is below.
 
-```
+{%highlight sql linenos %}
     CREATE FUNCTION [dbo].[UDF_GenerateSlug]
     (
-	    @str VARCHAR(100)
+        @str VARCHAR(100)
     )
     RETURNS VARCHAR(100)
     AS
-	BEGIN	
-		DECLARE @IncCharLoc SMALLINT	
-		SET @str = LOWER(@str)
-		SET @IncCharLoc = PATINDEX('%[^0-9a-z] %',@str)
-
-		WHILE @IncCharLoc &gt; 0		
-		BEGIN
-			SET @str = STUFF(@str,@IncCharLoc,1,'')
-			SET @IncCharLoc = PATINDEX('%[^0-9a-z] %',@str)
-		END
-		
-		SET @str = REPLACE(@str,' ','-')
-		RETURN @str
-	END 
+    BEGIN	
+        DECLARE @IncCharLoc SMALLINT
+        SET @str = LOWER(@str)
+        SET @IncCharLoc = PATINDEX('%[^0-9a-z] %',@str)
+        
+        WHILE @IncCharLoc &gt; 0
+        BEGIN
+        	SET @str = STUFF(@str,@IncCharLoc,1,'')
+        	SET @IncCharLoc = PATINDEX('%[^0-9a-z] %',@str)
+        END
+        
+        SET @str = REPLACE(@str,' ','-')
+        RETURN @str
+        END 
     GO
-```
+{% endhighlight %}
 
 First of all I need to leave spaces so they can be replaced with hyphens, and secondly I only require lower case characters. You may also notice that I'm doing a case transformation against the incoming string. This is due to the SQL database being setup with case insensitivity.
 
