@@ -39,14 +39,6 @@ AussieWeb Pty Ltd is a technology company that specialises developing online mar
 - Member of the [Brisbane South Baseball Association](http://bsba.baseball.com.au) coaching staff. (2013 - current) 
 
 ### Contact
-**Phone**: [+61 407 025 582](tel://+61407025582)
-
-**Email**: [me@jeremycade.com](mailto://me@jeremycade.com)
-
-**Twitter**: [@jcade83](https://twitter.com/jcade83)
-
-**Google+**: [Jeremy Cade](https://plus.google.com/+JeremyCade/)
-
-**LinkedIn**: [Jeremy Cade]()
-
-**Github**: [JeremyCade](https://github.com/JeremyCade)
+**Phone**: [+61 407 025 582](tel://+61407025582)<br />
+**Email**: [me@jeremycade.com](mailto://me@jeremycade.com)<br />
+**Social**: [Twitter](https://twitter.com/jcade83) | [LinkedIn](http://au.linkedin.com/in/jeremycade) | [Google+](https://plus.google.com/+JeremyCade/) | [GitHub](https://github.com/JeremyCade)
