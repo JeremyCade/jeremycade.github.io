@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Connecting to Microsoft SQL Server with python in OS X Yosemite"
+date:   2014-11-12
 categories: python sql-server osx yosemite
 ---
 
@@ -29,10 +30,36 @@ The [pymssql](http://pymssql.org/en/latest/) vs [pyodbc](https://code.google.com
 
 In your typical *nix environment FreeTDS sources configurations from two difference places:
 
-    /etc/freetds.conf # global
-    ~/.freetds.conf # local
+{% highlight bash %}
+    ${HOME}/.freetds.conf
+    /etc/freetds.conf
+{% endhighlight %}
 
-This is slightly different under OS X, and will vary depending on the package manager used to install FreeTDS.
+This is slightly different under OS X, and will vary depending on the package manager used to install FreeTDS. FreeTDS reads the ${HOME}/.freetds.conf before resorting to the global freetds.conf. You can find out what the location of your global freetds.conf by executing the following command:
+
+{% highlight bash %}
+tsql -C
+{% endhighlight %}
+
+Your result will be something along these lines:
+
+{% highlight bash %}
+$ tsql -C
+Compile-time settings (established with the "configure" script)
+                            Version: freetds v0.91
+             freetds.conf directory: /usr/local/Cellar/freetds/0.91_2/etc
+     MS db-lib source compatibility: no
+        Sybase binary compatibility: no
+                      Thread safety: yes
+                      iconv library: yes
+                        TDS version: 7.1
+                              iODBC: no
+                           unixodbc: no
+              SSPI "trusted" logins: no
+                           Kerberos: no
+{% endhighlight %}
+
+Full details about the FreeTDS configuration files can be found [here](http://www.freetds.org/userguide/freetdsconf.htm).
 
 #### Homebrew
 {% highlight bash %}
@@ -84,8 +111,22 @@ This was overcome by specifying the TDS Version as an Environment Variable like 
 TDSVER=7.0 tsql -H <host> -p <1433 or custom port> -U <username> -P <password>
 {% endhighlight %}
 
-### Installing pymssql
+Your other option for overcoming this type of error is to specify DNS names within your local *freetds.conf* file, for example:
 
+{% highlight %}
+[myhost]
+	host = dbdev.my-dev.com
+	port = 1433
+	tds version = 7.0
+{% endhighlight %}
+
+You can this test this by using the following command:
+
+{% highlight bash %}
+tsql -S myhost -U <USER> -P <PASSWORD>
+{% endhighlight %}
+
+### Installing pymssql
 pymssql is easily installed on your machine via Pip. 
 
 {% highlight bash %}
@@ -113,6 +154,7 @@ row = (4, 'LITERAL', Decimal('123.123'))
 row = (5, 'LITERAL', Decimal('123.123'))
 row = (6, 'LITERAL', Decimal('123.123'))
 >>> conn.close()
->>> 
+>>> exit()
 {% endhighlight %}
 
+pymssql adheres to the [Python DB-API 2.0](http://legacy.python.org/dev/peps/pep-0249/) specification. Meaning that all of the standard cursor methods are available. It also allows you to use ORM packages like [SQLAlchemy](http://docs.sqlalchemy.org/en/rel_0_9/dialects/mssql.html#module-sqlalchemy.dialects.mssql.pymssql). 
