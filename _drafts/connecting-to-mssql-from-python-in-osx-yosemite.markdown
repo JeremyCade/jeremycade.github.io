@@ -17,12 +17,12 @@ Additionally, we will need:
 
 - [Homebrew](http://brew.sh/) or [Macports](https://www.macports.org/)
 - [FreeTDS](http://www.freetds.org/)
-- [pymssql](http://pymssql.org/en/latest/) or [pyodbc](https://code.google.com/p/pyodbc/)
+- [pymssql](http://pymssql.org/en/latest/)
 
-#### Decisions
+#### Decisions and Rationale
 I personally prefer to use [Homebrew](http://brew.sh/) due to it's simplicity; though I do have a MacBook with [Macports](https://www.macports.org/) installed.
 
-The [pymssql](http://pymssql.org/en/latest/) vs [pyodbc](https://code.google.com/p/pyodbc/) is not one I really care to worry about, generally speaking I use [pymssql](http://pymssql.org/en/latest/) due to a better support for MS SQL stored procedures. 
+The [pymssql](http://pymssql.org/en/latest/) vs [pyodbc](https://code.google.com/p/pyodbc/) is not one I really care to worry about. Though I generally choose to use pymssql due to better support for MS SQL Stored Procedures, and a less troublesome install. In the past I have had issues installing pyodbc via Pip.
 
 ### Installing FreeTDS
 [FreeTDS](http://www.freetds.org/) is a set of *nix libraries, that allow applications to talk to Microsoft SQL Server.
@@ -84,16 +84,35 @@ This was overcome by specifying the TDS Version as an Environment Variable like 
 TDSVER=7.0 tsql -H <host> -p <1433 or custom port> -U <username> -P <password>
 {% endhighlight %}
 
-### Installing pymssql or pyodbc
+### Installing pymssql
 
-Both can be easily installed via [Pip](https://pypi.python.org/pypi/pip):
+pymssql is easily installed on your machine via Pip. 
 
 {% highlight bash %}
 pip install pymssql
 {% endhighlight %}
 
-or
+Once installed you can test the package in a fairly simple manner via Python interactive. 
 
-{% highlight bash %}
-pip install pyodbc
+{% highlight python %}
+$ python3 -i
+Python 3.4.2 (default, Oct 17 2014, 20:25:14) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.51)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import pymssql
+>>> conn = pymssql.connect("HOST","USER","PASSWORD","DATABASE")
+>>> cursor = conn.cursor()
+>>> cursor.execute("select * from dbo.[TABLE]")
+>>> for row in cursor:
+...     print("row = %r" % (row, ))
+... 
+row = (1, 'LITERAL', Decimal('123.123'))
+row = (2, 'LITERAL', Decimal('123.123'))
+row = (3, 'LITERAL', Decimal('123.123'))
+row = (4, 'LITERAL', Decimal('123.123'))
+row = (5, 'LITERAL', Decimal('123.123'))
+row = (6, 'LITERAL', Decimal('123.123'))
+>>> conn.close()
+>>> 
 {% endhighlight %}
+
