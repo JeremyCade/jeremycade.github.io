@@ -8,7 +8,7 @@ Thanks in part to my technology ADD, and desire to be a general language polyglo
 
 In this case I have a number of python micro-services and command line applications, running on a Mac Mini loaded with OS X Yosemite, that need to communicate with Microsoft's SQL Sever 2008 R2, on top of Windows Server 2008 R2.
 
-While SQL Server is a great Relational Database Management System (RDBMS), it isn't exactly known for it's ease of use when it comes to cross-platform communication. A quick Google Search will return quite a range of results (and horror stories) of 
+While SQL Server is a great Relational Database Management System (RDBMS), it isn't exactly known for it's ease of use when it comes to cross-platform communication. A quick Google Search will return a range of results (and horror stories) on how to get this all to work. 
 
 ## Getting Started
 It is assumed that you already have a working Python installation, either in the Python 2.7+ or Python 3.3+ families and [Pip](https://pypi.python.org/pypi/pip). 
@@ -19,8 +19,10 @@ Additionally, we will need:
 - [FreeTDS](http://www.freetds.org/)
 - [pymssql](http://pymssql.org/en/latest/) or [pyodbc](https://code.google.com/p/pyodbc/)
 
-### Installing Homebrew or Macports
+#### Decisions
 I personally prefer to use [Homebrew](http://brew.sh/) due to it's simplicity; though I do have a MacBook with [Macports](https://www.macports.org/) installed.
+
+The [pymssql](http://pymssql.org/en/latest/) vs [pyodbc](https://code.google.com/p/pyodbc/) is not one I really care to worry about, generally speaking I use [pymssql](http://pymssql.org/en/latest/) due to a better support for MS SQL stored procedures. 
 
 ### Installing FreeTDS
 [FreeTDS](http://www.freetds.org/) is a set of *nix libraries, that allow applications to talk to Microsoft SQL Server.
@@ -28,7 +30,7 @@ I personally prefer to use [Homebrew](http://brew.sh/) due to it's simplicity; t
 In your typical *nix environment FreeTDS sources configurations from two difference places:
 
     /etc/freetds.conf # global
-    ~/.freetds.conf # user / local
+    ~/.freetds.conf # local
 
 This is slightly different under OS X, and will vary depending on the package manager used to install FreeTDS.
 
@@ -82,3 +84,16 @@ This was overcome by specifying the TDS Version as an Environment Variable like 
 TDSVER=7.0 tsql -H <host> -p <1433 or custom port> -U <username> -P <password>
 {% endhighlight %}
 
+### Installing pymssql or pyodbc
+
+Both can be easily installed via [Pip](https://pypi.python.org/pypi/pip):
+
+{% highlight bash %}
+pip install pymssql
+{% endhighlight %}
+
+or
+
+{% highlight bash %}
+pip install pyodbc
+{% endhighlight %}
