@@ -2,6 +2,7 @@
 layout: post
 title:  "Connecting to Microsoft SQL Server with python in OS X Yosemite"
 date:   2014-11-12
+comments: true
 categories: python sql-server osx yosemite
 ---
 

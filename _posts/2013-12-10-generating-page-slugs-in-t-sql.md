@@ -2,6 +2,7 @@
 layout: post
 title:  "Generating Page Slugs in T-SQL!"
 date:   2013-12-10
+comments: true
 categories: t-sql page-slugs
 ---
 
