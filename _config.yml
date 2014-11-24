@@ -21,4 +21,4 @@ paginate:         5
 
 # Additional Gems
 gems:
-    jekyll-sitemap
+    - jekyll-sitemap
