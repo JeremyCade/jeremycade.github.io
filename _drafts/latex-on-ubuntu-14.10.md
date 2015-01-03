@@ -1,25 +1,25 @@
 ---
 layout: post
 title:  "LaTeX on Ubuntu 14.10"
-date:   2014-12-15
+date:   2015-01-15
 comments: true
 categories: latex ubuntu 14.10
 ---
 
-Writting a thesis for a years worth of research is down right fun. Even more so when trying to compile a large document with LaTeX. Normally compiling LaTeX is not an issue for me. The sizeable [MacTeX](https://tug.org/mactex/) packages generally contain all the packages I require. Though recently, I decided to dust off a old [MSI Wind12 U200 Netbook](http://www.msi.com/product/nb/U200.html#hero-overview) and install [Ubuntu 14.10](http://www.ubuntu.com/download/desktop) to use as my writing machine. My initial thought was that it was going to be a simple case of apt-get install and I would be off and running with a working LaTeX install and all of my required packages. 
+Writing a thesis for a years worth of research is down right fun. Even more so when trying to compile a large document with LaTeX. Normally compiling LaTeX is not an issue for me. The sizable [MacTeX](https://tug.org/mactex/) packages generally contain all the packages I require. Though recently, I decided to dust off a old [MSI Wind12 U200 Netbook](http://www.msi.com/product/nb/U200.html#hero-overview) and install [Ubuntu 14.10](http://www.ubuntu.com/download/desktop) to use as my writing machine. My initial thought was that it was going to be a simple case of apt-get install and I would be off and running with a working LaTeX install and all of my required packages.
 
 My standard LaTeX document makes use of the following packages:
 
-- geometry
+- biblatex
 - fancyhdr
-- inputenc
+- geometry
 - glossaries
 - graphicx
-- biblatex
+- inputenc
 
-Nothing out of the ordianry, or packages that you wouldn't expect to be installed as part of a standard [TeX Live](https://www.tug.org/texlive/) install. 
+Nothing out of the ordinary, or packages that you wouldn't expect to be installed as part of a standard [TeX Live](https://www.tug.org/texlive/) install.
 
-To ensure everything plays nice, I make use of the follwoing Makefile: 
+To ensure everything plays nice, I make use of the following Makefile:
 
     # LaTeX Makefile
     FILE=main
@@ -41,19 +41,25 @@ To ensure everything plays nice, I make use of the follwoing Makefile:
 	    pdflatex $(FILE)
 
 ## Installing TexLive
-Ubuntu's package repository contains a number of Tex Live packages. My inital approach was to install the texlive-full package. 
+
+Ubuntu's package repository contains a number of Tex Live packages. My initial approach was to install the texlive-full package.
 
     sudo apt-get install --yes texlive-full
 
 A quick **make** resulted in LaTeX throwing an error
 
-sudo apt-get install --yes texlive-full
+    pdflatex main
+    make: pdflatex: Command not found
+    make: *** [main.pdf] Error 127
 
-glossaries.sty not found
 
-sudo apt-get install --yes texlive-latex-extra
 
-bibtex.sty not found
+    sudo apt-get install --yes texlive-full
 
-sudo apt-get install --yes texlive-bibtex-extra
+    glossaries.sty not found
 
+    sudo apt-get install --yes texlive-latex-extra
+
+    bibtex.sty not found
+
+    sudo apt-get install --yes texlive-bibtex-extra
