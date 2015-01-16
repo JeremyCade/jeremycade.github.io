@@ -14,7 +14,7 @@ title: Curriculum Vitae
 3 year degree completed in 2 years, while working full time. 
 Majoring in Computers and Intelligent Systems, covering Artificial Intelligence, Multi-agent Systems, Machine Learning and Constraint Satisfaction Techniques. 
 
-#### M. Information Technology (Hons), Griffith Univeristy, QLD, Australia
+### M. Information Technology (Hons), Griffith Univeristy, QLD, Australia
 
 Final year of a 2 year degree by research, while working full time. 
 
@@ -33,7 +33,7 @@ AussieWeb Pty Ltd is a technology company that specialises developing online mar
 - Manage the company's server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.
 - Developed company's billing and reporting systems, integrated with third party accounting packages and merchant gateways
-- Developed CRM and customer retention and reporting systems that resulted in AussieWeb Pty Ltd being awarded the Google APAC 2013 Highest Customer Satisfaction Award
+- Developed CRM and customer retention and reporting systems that resulted in AussieWeb Pty Ltd being awarded the Google APAC Highest Customer Satisfaction Award in 2013 and 2014
 - Developed custom web applications and e-commerce solutions as requested by clients
 - Manage client advertising accounts with Google AdWords and Bing Ads.
 
