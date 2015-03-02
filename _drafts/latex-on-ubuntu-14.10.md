@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "LaTeX on Ubuntu 14.10"
-date:   2015-01-15
 comments: true
 categories: latex ubuntu 14.10
 ---
