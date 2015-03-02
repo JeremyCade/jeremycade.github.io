@@ -5,8 +5,7 @@ comments: true
 categories: asp.net mvc unit testing 
 ---
 
-# 
-In Asp.net Mvc I often create Action Methods that return both a PartialViewResult and a ViewResult depending on how the method was called. 
+In Asp.net MVC I often create Action Methods that return both a PartialViewResult and a ViewResult depending on how the method was called. 
 
 ## The Test Logic
 - If requested via ajax, return a PartialViewResult.
