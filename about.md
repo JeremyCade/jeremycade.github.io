@@ -14,13 +14,13 @@ Machine Intelligence and Pattern Analysis Laboratory [MiPAL](http://www.mipal.ne
 
 ### Education
 - B. Information Technology (Accl), [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
-- M. Information Technology (Hons), [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
+- M. Information Technology, [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
 
 ####Current research topics:
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
 
 ### Work - AussieWeb
-AussieWeb Pty Ltd is a technology company that specialises developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 7 Google AdWords partners in Australia. 
+AussieWeb Pty Ltd is a technology company that specialises in developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 7 Google AdWords partners in Australia. 
 
 - Manage the company's server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.
