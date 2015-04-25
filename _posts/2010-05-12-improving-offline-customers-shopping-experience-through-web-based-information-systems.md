@@ -12,12 +12,12 @@ Woolworths Limited stands to gain a substantial technical advantage over its com
 1. Summary
 2. History and Operational Context
 3. Typical Offline (In store) Customer Behaviour
-3.1 Survey Results
+ 3.1 Survey Results
 4. Possible Areas of Improvement
-4.1 Awareness of the Current Weekly Specials
-4.2 Geolocation
-4.3 Email Delivery of weekly specials
-4.4 Awareness of store layout and product placement locations
+ 4.1 Awareness of the Current Weekly Specials
+ 4.2 Geolocation
+ 4.3 Email Delivery of weekly specials
+ 4.4 Awareness of store layout and product placement locations
 5. Conclusion
 6. Reference List
 
