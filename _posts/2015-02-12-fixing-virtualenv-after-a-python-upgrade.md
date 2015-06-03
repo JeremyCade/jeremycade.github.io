@@ -6,7 +6,7 @@ comments: true
 categories: python osx homebrew
 ---
 
-Do you manage your OS X Python installation with Homebrew? Have you recently upgrade Python? 
+Do you manage your OS X Python installation with Homebrew? Have you recently upgraded Python? 
 
 In my case it was a Python 3 point release; from 3.4.2 to 3.4.3. The downside is that this is enough to invalidate virtualenv's symbolic links.
 
