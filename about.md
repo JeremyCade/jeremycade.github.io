@@ -19,8 +19,8 @@ Machine Intelligence and Pattern Analysis Laboratory [MiPAL](http://www.mipal.ne
 ####Current research topics:
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
 
-### Work - AussieWeb
-AussieWeb Pty Ltd is a technology company that specialises in developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 7 Google AdWords partners in Australia. 
+### Previous Work - AussieWeb
+AussieWeb Pty Ltd is a technology company that specialises in developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 14 Google AdWords partners in Australia. 
 
 - Manage the company's server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.

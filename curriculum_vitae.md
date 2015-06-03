@@ -23,7 +23,7 @@ Majoring in Computers and Intelligent Systems, covering Artificial Intelligence,
 
 ## Work Experience
 
-#### 2003 - present, Software Engineer, AussieWeb Pty Ltd
+#### 2003 - 2015, Software Engineer, AussieWeb Pty Ltd
 AussieWeb Pty Ltd is a technology company that specialises in developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 14 Google AdWords partners in Australia. 
 
 - Management of server and web infrastructure
