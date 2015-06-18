@@ -16,24 +16,33 @@ Majoring in Computers and Intelligent Systems, covering Artificial Intelligence,
 
 ### M. Information Technology, Griffith University, QLD, Australia
 
-**Current research topics include:**
+2 year degree completed while working full time. 
+Majoring in Software Development. 
+
+**Research topics included:**
 
 - Software Quality and Software Engineering Practices in relation to Cloud Computing
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
 
 ## Work Experience
 
-#### 2003 - present, Software Engineer, AussieWeb Pty Ltd
-AussieWeb Pty Ltd is a technology company that specialises in developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 14 Google AdWords partners in Australia. 
+#### 2015 - Present, Senior Software Architect, SSW
+
+SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Manage, Collaboration and Content, Digital Advertising and Management and Visualization. 
+
+#### 2003 - 2015, Software Engineer, AussieWeb Pty Ltd
+
+AussieWeb Pty Ltd is a technology company that specialises in developing online marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 14 Google AdWords partners in Australia. 
 
 - Management of server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.
 - Initial and continued development of AussieWeb's billing and reporting systems, integrated with third party accounting packages and merchant gateways
-- Developed CRM and customer retention and reporting systems that resulted in AussieWeb Pty Ltd being awarded the Google APAC Highest Customer Satisfaction Award in 2013 and 2014
+- Developed CRM, Customer Retention and Reporting Systems that resulted in AussieWeb Pty Ltd being awarded the Google APAC Highest Customer Satisfaction Award in 2013 and 2014
 - Developed custom web applications and e-commerce solutions as requested by clients
 - Manage client advertising accounts with Google AdWords and Bing Ads.
 
-#### 2012 - present, President, Indians Baseball Club Inc.
+#### 2012 - 2015, President, Indians Baseball Club Inc.
+
 Indians Baseball Club is a community based baseball club, located in Brisbane Australia. The President role is an unpaid role, that requires a minimum of 20 hours per week of work. 
 
 - Developed marketing strategies that resulted in the club growing its membership base, and increasing revenue by 15%. Including redesigned online presence, electronic store and payment processing. 
