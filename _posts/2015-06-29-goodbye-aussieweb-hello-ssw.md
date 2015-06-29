@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title:  "Goodbye AussieWeb. Hello SSW."
 date:   2015-06-29
