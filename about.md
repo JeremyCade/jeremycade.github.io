@@ -16,8 +16,12 @@ Machine Intelligence and Pattern Analysis Laboratory [MiPAL](http://www.mipal.ne
 - B. Information Technology (Accl), [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
 - M. Information Technology, [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
 
-####Current research topics:
+####Research topics:
+- Software Quality and Software Engineering Practices in relation to Cloud Computing
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
+
+### Current Work - SSW
+SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Manage, Collaboration and Content, Digital Advertising and Management and Visualization. 
 
 ### Previous Work - AussieWeb
 AussieWeb Pty Ltd is a technology company that specialises in developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 14 Google AdWords partners in Australia. 
