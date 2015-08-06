@@ -17,10 +17,12 @@ This is a minor issue, and the fix is relatively simple
 
 1. Open Terminal `⌘+space Terminal`
 2. Execute the following: 
+
 ````bash    
     cd ~/.dnx/runtimes/dnx-mono.1.0.0-beta6/bin/
     chmod +x dnu
 ````
+
 3. No more issues.
 
 ![screen shot 2015-08-07 at 12 24 41 am](../images/dnu_executeable.png)
