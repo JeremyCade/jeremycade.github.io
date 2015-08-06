@@ -5,6 +5,12 @@ title: Windows Snippets
 
 A collection of Snippets, commands and other useful things for Windows that I often forget, and need to lookup. 
 
+### Powershell
+
+### Reload your profile.
+
+    . $Profile
+
 ### Windows Environment Commands
 
 - %USERPROFILE% - Equivalent of ~ on *nix systems. 
