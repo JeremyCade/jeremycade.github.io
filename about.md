@@ -6,6 +6,9 @@ title: About
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
 Jeremy is a polyglot Software Engineer, Father, Academic in Training and Baseball Coach, living in Brisbane, Australia.
 
+### Current Employer
+Senior Software Architect - [SSW](http://www.ssw.com.au)
+
 ### Publications
 Cade, J., Wen, L. & Rout, T. (2014) **Issues in Applying Model Based Process Improvement in the Cloud Computing Domain**. Software Process Improvement and Capability Determination, CCIS 477, Springer, Heidelberg
 
@@ -32,7 +35,7 @@ AussieWeb Pty Ltd is a technology company that specialises in developing online 
 ### Baseball
 - NCAS 4, Accredited Baseball Coach
 - President & Junior Director of Coaching, [Indians Baseball Club](http://www.indians.org.au) (2012 - current)
-- Member of the [Brisbane South Baseball Association](http://bsba.baseball.com.au) coaching staff. (2013 - current) 
+- Member of the [Brisbane South Baseball Association](http://bsba.baseball.com.au) coaching staff. (2013 - current)
 
 ### Contact
 **Phone**: [+61 407 025 582](tel://+61407025582)<br />
