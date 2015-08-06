@@ -22,7 +22,7 @@ This is a minor issue, and the fix is relatively simple
     cd ~/.dnx/runtimes/dnx-mono.1.0.0-beta6/bin/
     chmod +x dnu
 ````
-3. No more issues.
+No more issues.
 
 ![Correct permissions for dnu execution.](../images/dnu_executeable.png)
 **Figure: Executeable dnu**
