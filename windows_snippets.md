@@ -5,7 +5,11 @@ title: Windows Snippets
 
 A collection of Snippets, commands and other useful things for Windows that I often forget, and need to lookup. 
 
-### Powershell
+## Powershell
+
+### Recursive delete of a Folder and it's contents
+
+    Remove-Item -Recurse -Force foldername
 
 ### Reload your profile.
 
@@ -15,6 +19,8 @@ A collection of Snippets, commands and other useful things for Windows that I of
 
 - %USERPROFILE% - Equivalent of ~ on *nix systems. 
 - %WINDIR% - Windows Directory
+
+## General Windows
 
 ### .Directories and .Files
 
