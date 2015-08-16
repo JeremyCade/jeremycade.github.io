@@ -10,7 +10,7 @@ Continuing on from [#687: dnu restore broken](https://github.com/aspnet/Home/iss
 
 If you, like me have installed `dnvm` on OS X via Homebrew, you will run into the following issue: 
 
-![dvnm update-self issue](../images/dnvm_update_self.png)
+![dvnm update-self issue]({{ site.url }}/images/dnvm_update_self.png)
 **Figure: dnvm update expects dnvm directory in .dnx folder**
 
 As you can see from the following `tree .dnx` output, the `dnvm` directory is not present.
@@ -104,7 +104,7 @@ Normally I would advise updating `dnvm` via Homebrew like so:
 
 However as [Brennan Conroy](https://github.com/BrennanConroy) mentions: "Unfortunately we don't support upgrade through homebrew".
 
-![Unfortunately we don't support upgrade through homebrew.](../images/dnvm-update-homebrew-not-supported.png)
+![Unfortunately we don't support upgrade through homebrew.]({{ site.url }}/images/dnvm-update-homebrew-not-supported.png)
 **Figure: Unfortunately we don't support upgrade through homebrew.**
 
 The correct method as of August 16th 2015 to upgrade `dnvm` if installed via Homebrew is the following: 

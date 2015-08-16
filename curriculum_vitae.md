@@ -28,11 +28,11 @@ Majoring in Software Development.
 
 #### 2015 - Present, Senior Software Architect, SSW
 
-SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Manage, Collaboration and Content, Digital Advertising and Management and Visualization. 
+SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
 
 #### 2003 - 2015, Software Engineer, AussieWeb Pty Ltd
 
-AussieWeb Pty Ltd is a technology company that specialises in developing online marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 14 Google AdWords partners in Australia. 
+AussieWeb Pty Ltd is a technology company that specialises in developing online marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 17 Google AdWords partners in Australia. 
 
 - Management of server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.
