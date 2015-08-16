@@ -6,7 +6,7 @@ comments: true
 categories: asp.net
 ---
 
-Continuing on from the [#687: dnu restore broken](https://github.com/aspnet/Home/issues/687) issue; A number of people are still finding this to be an issue. The recommended fix at this stage is to update `dnvm` to the latest version with `dnvm update-self`.
+Continuing on from [#687: dnu restore broken](https://github.com/aspnet/Home/issues/687); A number of people are still finding this to be an issue. The recommended fix at this stage is to update `dnvm` to the latest version with `dnvm update-self`.
 
 If you, like me have installed `dnvm` on OS X via Homebrew, you will run into the following issue: 
 
@@ -110,3 +110,5 @@ However as [Brennan Conroy](https://github.com/BrennanConroy) mentions: "Unfortu
 The correct method as of August 16th 2015 to upgrade `dnvm` if installed via Homebrew is the following: 
 
 `brew remove dnvm; brew install dnvm;`
+
+Personally, I find this to be somewhat of an issue, though given the beta nature of ASP.Net 5 it's to be expected. At this stage I am investigating the viability of a patch to `dnvm.sh` to support `dnvm update-self` from a Homebrew install. More on that at a later date. 
