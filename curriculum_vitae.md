@@ -16,7 +16,7 @@ Majoring in Computers and Intelligent Systems, covering Artificial Intelligence,
 
 ### M. Information Technology, Griffith University, QLD, Australia
 
-2 year degree completed while working full time. 
+Degree completed while working full time. 
 Majoring in Software Development. 
 
 **Research topics included:**
