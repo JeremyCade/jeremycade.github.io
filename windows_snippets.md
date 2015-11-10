@@ -9,7 +9,7 @@ A collection of Snippets, commands and other useful things for Windows that I of
 
 ### Recursive delete of a Folder and it's contents
 
-    Remove-Item -Recurse -Force foldername
+    Remove-Item -Recurse -Force folderName
 
 ### Reload your profile.
 
@@ -26,7 +26,7 @@ A collection of Snippets, commands and other useful things for Windows that I of
 
 To create .Directories in File Explorer append a "."" to the directory name. e.g.
 
-    .foldername.
+    .folderName.
 
 To create .Directories in Command Prompt or Powershell:
 
@@ -34,4 +34,4 @@ To create .Directories in Command Prompt or Powershell:
 
 To create .Files in File Explorer append a "." to the file name; e.g.
 
-    .filename.
+    .fileNsame.
