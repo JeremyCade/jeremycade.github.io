@@ -6,14 +6,14 @@ comments: true
 categories: python sql-server osx yosemite
 ---
 
-Thanks in part to my technology ADD, and desire to be a general language polyglot; it is by no means unusual to have a mixed technology stack.
+Due in part to my technology ADD, and desire to be a polyglot developer; it is by no means unusual to find myself in a position where I am working with a mixed technology stack.
 
-In this case I have a number of python micro-services and command line applications, running on a Mac Mini loaded with OS X Yosemite, that need to communicate with Microsoft's SQL Sever 2008 R2, on top of Windows Server 2008 R2.
+In this case I have a number of python micro-services and command line applications running on a Mac Mini loaded with OS X Yosemite that need to retrieve data from a Microsoft SQL Sever 2008 R2 instance on Windows Server 2008 R2.
 
 While SQL Server is a great Relational Database Management System (RDBMS), it isn't exactly known for it's ease of use when it comes to cross-platform communication. A quick Google Search will return a range of results (and horror stories) on how to get this all to work. 
 
 ## Getting Started
-It is assumed that you already have a working Python installation, either in the Python 2.7+ or Python 3.3+ families and [Pip](https://pypi.python.org/pypi/pip). 
+It is assumed that you already have a working Python installation (Python 2.7+ or 3.3+) and [Pip](https://pypi.python.org/pypi/pip). 
 
 Additionally, we will need: 
 
@@ -24,17 +24,37 @@ Additionally, we will need:
 #### Decisions and Rationale
 I personally prefer to use [Homebrew](http://brew.sh/) due to it's simplicity; though I do have a MacBook with [Macports](https://www.macports.org/) installed.
 
-The [pymssql](http://pymssql.org/en/latest/) vs [pyodbc](https://code.google.com/p/pyodbc/) is not one I really care to worry about. Though I generally choose to use pymssql due to better support for MS SQL Stored Procedures, and a less troublesome install. In the past I have had issues installing pyodbc via Pip.
+The [pymssql](http://pymssql.org/en/latest/) vs [pyodbc](https://code.google.com/p/pyodbc/) argument is not one I really care to worry about. Though I generally choose to use pymssql due to better support for MS SQL Stored Procedures, and a less troublesome install. I have had issues in the past installing pyodbc via Pip.
 
 ### Installing FreeTDS
 [FreeTDS](http://www.freetds.org/) is a set of *nix libraries, that allow applications to talk to Microsoft SQL Server.
 
-In your typical *nix environment FreeTDS sources configurations from two difference places:
+In your typical *nix environment FreeTDS sources configuration from two difference places:
 
     ${HOME}/.freetds.conf
     /etc/freetds.conf
 
-This is slightly different under OS X, and will vary depending on the package manager used to install FreeTDS. FreeTDS reads the ${HOME}/.freetds.conf before resorting to the global freetds.conf. You can find out what the location of your global freetds.conf by executing the following command:
+This is slightly different under OS X, and will vary depending on the package manager used to install FreeTDS. 
+
+#### Homebrew Install
+
+    brew install freetds
+
+Homebrew symlinks the global *freetds.conf* file to:
+
+    /usr/local/etc/freetds.conf
+
+#### Macports Install
+
+    sudo port install freetds
+
+Macports installs the global *freetds.conf* file to:
+
+    /opt/local/etc/freetds/freetds.conf
+
+### FreeTDS Configuration
+
+FreeTDS reads the `${HOME}/.freetds.conf` before resorting to the global `freetds.conf`. You can find out what the location of your global `freetds.conf` by executing the following command:
 
     tsql -C
 
@@ -56,22 +76,6 @@ Your result will be something along these lines:
 
 
 Full details about the FreeTDS configuration files can be found [here](http://www.freetds.org/userguide/freetdsconf.htm).
-
-#### Homebrew
-
-    brew install freetds
-
-Homebrew symlinks the global *freetds.conf* file to:
-
-    /usr/local/etc/freetds.conf
-
-#### Macports
-
-    sudo port install freetds
-
-Macports installs the global *freetds.conf* file to:
-
-    /opt/local/etc/freetds/freetds.conf
 
 ### Testing FreeTDS
 
@@ -95,15 +99,14 @@ My Macports machine presented the following errors:
         Adaptive Server connection failed
     There was a problem connecting to the server.
 
-
 This was overcome by specifying the TDS Version as an Environment Variable like so:
 
     TDSVER=7.0 tsql -H <host> -p <1433 or custom port> -U <username> -P <password>
 
-Your other option for overcoming this type of error is to specify DNS names within your local *freetds.conf* file, for example:
+Your other option for overcoming this type of error is to specify DNS names within your local `freetds.conf` file, for example:
 
     [myhost]
-    	host = dbdev.my-dev.com
+    	host = dbdev.mydomain.com
     	port = 1433
     	tds version = 7.0
 
