@@ -21,6 +21,12 @@ A collection of Snippets, commands and other useful things for Windows that I of
 
 NB: PowerShell 3+
 
+## Windows Command Line (DOS)
+
+## Equivalent of `which`
+
+    where.exe [cmd]
+
 ### Windows Environment Commands
 
 - %USERPROFILE% - Equivalent of ~ on *nix systems. 
