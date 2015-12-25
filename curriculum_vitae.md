@@ -16,8 +16,7 @@ Majoring in Computers and Intelligent Systems, covering Artificial Intelligence,
 
 ### M. Information Technology, Griffith University, QLD, Australia
 
-Degree completed while working full time. 
-Majoring in Software Development. 
+Degree completed while working full time. Majoring in Software Development. 
 
 **Research topics included:**
 
@@ -26,13 +25,13 @@ Majoring in Software Development.
 
 ## Work Experience
 
-#### 2015 - Present, Senior Software Architect, SSW
+#### 2015 - 2106, Senior Software Architect, SSW
 
 SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
 
 #### 2003 - 2015, Software Engineer, AussieWeb Pty Ltd
 
-AussieWeb Pty Ltd is a technology company that specialises in developing online marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 17 Google AdWords partners in Australia. 
+AussieWeb Pty Ltd is a technology company that specialises in developing digital marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
 
 - Management of server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.
