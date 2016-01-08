@@ -7,6 +7,15 @@ A collection of Snippets, commands and other useful things for Windows that I of
 
 ## PowerShell
 
+### Existence Tests
+
+#### Commandline application or PowerShell Commandlet
+
+    if ((Get-Command cmd -ErrorAction SilentyContinue) -ne $null) {
+    	# Do Something
+    }
+
+
 ### Recursive delete of a Folder and it's contents
 
     Remove-Item -Recurse -Force folderName
@@ -20,6 +29,12 @@ A collection of Snippets, commands and other useful things for Windows that I of
     (Get-Command cmd).Path
 
 NB: PowerShell 3+
+
+## Windows Command Line (DOS)
+
+## Equivalent of `which`
+
+    where.exe [cmd]
 
 ### Windows Environment Commands
 

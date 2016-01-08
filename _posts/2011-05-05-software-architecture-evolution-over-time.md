@@ -13,11 +13,11 @@ The development of codified software design patterns over the last 30 years has 
 However in order to understand the overall architecture of a system we first need to be able to decompose the system into subsystems or modules, with each subsystem or module adhering to a design pattern in order to maintain some sort of maintainability and testability.
 
 ## 2.  Discussion
-In his 1972 paper, "On the Criteria To Be Used in Decomposing Systems into Modules", Parans discusses the decomposition of software into modules, producing two separate modularisations.
+In his 1972 paper, "On the Criteria To Be Used in Decomposing Systems into Modules", Parnas discusses the decomposition of software into modules, producing two separate modularisations.
 
 The first is along the lines of functional/procedural responsibility or steps, referred to as the "flowchart" method [1]. The second is along the lines of "Information Hiding".
 
-Parans says of the second modularisation: "Every module in the second decomposition is characterized by its knowledge of a design decision which it hides from all others. Its interface or definition was chosen to reveal as little as possible about its inner workings." [1]
+Parnas says of the second modularisation: "Every module in the second decomposition is characterized by its knowledge of a design decision which it hides from all others. Its interface or definition was chosen to reveal as little as possible about its inner workings." [1]
 
 These two sentences are of great interest, as this was the first time the idea of Information Hiding was introduced to the world of Software Architecture and Design.
 
@@ -37,7 +37,7 @@ This allows for the implementation of higher-level design patterns for specific 
 
 However Shaw makes the conclusion that the at the time of publication (1989) Software Architecture was not yet mature enough to develop or support such high-level patterns [2].
 
-As we can see, both Parans and Shaw’s work address software design from a structural, decomposition standpoint, while this may have been the founding for a lot of today’s current structural architecture level design patterns, it fails to take into account the other areas software design that are important in todays object oriented world, specifically those of object creation, structure and behaviour in complex software systems.
+As we can see, both Parnas and Shaw’s work address software design from a structural, decomposition standpoint, while this may have been the founding for a lot of today’s current structural architecture level design patterns, it fails to take into account the other areas software design that are important in todays object oriented world, specifically those of object creation, structure and behaviour in complex software systems.
 
 Neither of the papers takes into account the inherent complexity of trying to integrate multiple modules to form complex systems, while maintaining portability, testability and high maintainability.
 
@@ -57,7 +57,7 @@ Well-tested, decoupled modules often have higher levels of cohesion, allowing th
 There is however still a number of open issues from a software architecture standpoint, as the underlying hardware increases in capacity and complexity the need to continually abstract the inner workings to increase design simplicity of each system is a cause for ambiguity, and misunderstanding. Shaw did mention this in her paper, however, it may well result in a time where those making the design decisions no longer understand the underlying rationale for the design pattern that they have chosen to implement. At a lower level this is evident in the uptake of memory managed programming environments, e.g. Java. It could be argued that Java developers are more ignorant of their memory footprint, compared to C developers. There is a real chance that this could happen at a higher level of design as we continually develop new ways to abstract away from the inner workings of our systems.
 
 ## 4. Conclusion
-Parans work created the foundations for a large number of design patterns still implemented in today’s moderns software systems. Shaw extended Parans work in a way that allowed for the abstraction of design decisions to higher levels of a software system. This work has since been extended upon by a number of different people, allowing for reusable software design patterns that give us the ability to build highly cohesive, decoupled systems that are easily tested.
+Parnas work created the foundations for a large number of design patterns still implemented in today’s moderns software systems. Shaw extended Parnas work in a way that allowed for the abstraction of design decisions to higher levels of a software system. This work has since been extended upon by a number of different people, allowing for reusable software design patterns that give us the ability to build highly cohesive, decoupled systems that are easily tested.
 
 However we may face a time in the future where the continued abstraction of the design decisions leads to an ignorance of the base implementation of a system.
 

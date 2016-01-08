@@ -22,3 +22,9 @@ paginate:         5
 # Additional Gems
 gems:
     - jekyll-sitemap
+    - jekyll-feed
+
+# Collections
+collections:
+  snippets:
+    output: true

@@ -5,11 +5,7 @@ title: About
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
 Jeremy is a Father, Husband, polyglot Software Engineer and Baseball Coach, living in Brisbane, Australia.
-
-### Current Work - SSW
-Jeremy is currently a Senior Software Architect with [SSW](http://www.ssw.com.au). 
-
-SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
+ 
 
 ### Publications
 
@@ -29,16 +25,13 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 - Software Quality and Software Engineering Practices in relation to Cloud Computing
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
 
+### Previous Work - SSW
+
+SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
+
 ### Previous Work - AussieWeb
 
-AussieWeb Pty Ltd is a technology company that specialises in developing online marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 17 Google AdWords partners in Australia. 
-
-- Manage the company's server and web infrastructure
-- Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.
-- Developed company's billing and reporting systems, integrated with third party accounting packages and merchant gateways
-- Developed CRM and customer retention and reporting systems which resulted in AussieWeb Pty Ltd being awarded the Google APAC Highest Customer Satisfaction Award in 2013 and 2014
-- Developed custom web applications and e-commerce solutions as requested by clients
-- Manage client advertising accounts with Google AdWords and Bing Ads.
+AussieWeb Pty Ltd is a technology company that specialises in developing digital marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
 
 ### Baseball
 
