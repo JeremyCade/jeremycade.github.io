@@ -3,7 +3,7 @@ layout: post
 title:  "Goodbye AussieWeb. Hello SSW."
 date:   2015-06-29
 comments: true
-categories: personal
+categories: professional
 ---
 
 After more then 13 years, I have made the decision to move on from my Software Engineering role with [Monte Huebsch](http://www.montehuebsch.com) and team at [AussieWeb](http://www.aussieweb.com.au) and take on a Senior Software Architect position with [Adam Cogan](http://www.adamcogan.com/) and his team at [SSW](http://www.ssw.com.au).
@@ -22,7 +22,6 @@ I was introduced to SSW through the Brisbane .Net User Group, to be frank, I was
 
 Though my official start date with SSW is July 1st 2015, I have been working with the Brisbane Team in a part time capacity since June 1st 2015. This has allowed me to ease myself into SSW's work-flow and methodologies, though not without some level of pain. It's not always easy to move from having complete freedom to following the [rules](https://rules.ssw.com.au) 
 
-To date: I have pushed changes to the [SSW Website](https://www.ssw.com.au/), [Sugar Learning](http://www.sugarlearning.com/) and have started working with [Brisbane Catholic Education](http://www.bne.catholic.edu.au/) on one of their internal Information Systems.
-
+To date: I have pushed changes to the [SSW Website](https://www.ssw.com.au/), [SugarLearning](http://www.sugarlearning.com/) and have started working with [Brisbane Catholic Education](http://www.bne.catholic.edu.au/) on one of their internal Information Systems.
 
 So a final Goodbye to my coworkers of 13+ years and AussieWeb, and hello to all of the team at SSW. 

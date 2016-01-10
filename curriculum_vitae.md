@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 # Jeremy L. Cade
-**Address**: 11 Newman Road, Moorooka, QLD, 4105<br />
+
 **E-mail**: me@jeremycade.com<br />
 **Phone**: +61 (4) 0702 5582
 
@@ -31,7 +31,7 @@ SSW is a Microsoft Gold Partner in Application Development, Application Lifecycl
 
 #### 2003 - 2015, Software Engineer, AussieWeb Pty Ltd
 
-AussieWeb Pty Ltd is a technology company that specialises in developing digital marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
+AussieWeb Pty Ltd is a technology company that specializes in developing digital marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
 
 - Management of server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.

@@ -4,14 +4,14 @@ title: About
 ---
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
-Jeremy is a Father, Husband, polyglot Software Engineer and Baseball Coach, living in Brisbane, Australia.
+Jeremy is a Father, Husband, overly opinionated Software Engineer and Baseball Coach, living in Brisbane, Australia.
  
 
 ### Publications
 
 Cade, J., Wen, L. & Rout, T. (2014) **[Issues in Applying Model Based Process Improvement in the Cloud Computing Domain](http://link.springer.com/chapter/10.1007%2F978-3-319-13036-1_21)**. Software Process Improvement and Capability Determination, CCIS 477, Springer, Heidelberg
 
-### Research Organisations
+### Research Organizations
 
 Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.net.au)), Griffith University, Brisbane Australia.
 
@@ -31,11 +31,11 @@ SSW is a Microsoft Gold Partner in Application Development, Application Lifecycl
 
 ### Previous Work - AussieWeb
 
-AussieWeb Pty Ltd is a technology company that specialises in developing digital marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
+AussieWeb Pty Ltd is a technology company that specializes in developing digital marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
 
 ### Baseball
 
-Jeremy is a NCAS 4 Baseball Coach with [Indians Baseball Club](http://www.indians.org.au) and is part of the coaching staff for the [Brisbane South Baseball Association](http://bsba.baseball.com.au) Little League Charter All Star Teams. 
+Jeremy is a NCAS 4 Baseball Coach with [Indians Baseball Club](http://www.indians.org.au) and is part of the coaching staff for the [Brisbane South Baseball Association](http://bsba.baseball.com.au) Little League Charter All Star Teams
 
 ### Contact
 
