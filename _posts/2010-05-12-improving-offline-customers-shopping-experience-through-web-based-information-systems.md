@@ -95,17 +95,17 @@ When we consider the smart phone compatible version of the Woolworths website, i
 
 The number of steps required before being able to view the weekly specials could be drastically reduced by making both the smart phone and PC versions of the Woolworths's website location aware. This can be done via the Geographic Location Application Programming Interface (geolocation API) available as part of the HTML5 standard (W3C 2010). The geolocation API is a client side technology which allows users to make a decision to share their current location with Woolworths' website server (Figures 1 & 2).
 
-![Figure 1 - Geolocation API behaviour on an iPhone](../images/Geoloc-iPhone_large.png)
+![Figure 1 - Geolocation API behaviour on an iPhone{{ site.url }}/images/Geoloc-iPhone_large.png)
 
-![Figure 2 - Geolocation API behaviour on an iPhone](../images/Geoloc-iPhone2_large.png)
+![Figure 2 - Geolocation API behaviour on an iPhone{{ site.url }}/images/Geoloc-iPhone2_large.png)
 
 The geolocation API provides the users location as latitude and longitude coordinates, which can then be used to locate the closet Woolworths store location to the user.
 
 Currently iPhone, Android and Palm smart phones support the use of geolocation API's along with the popular Firefox (Figure 3 & 4), Chrome and Safari PC desktop browsers. Other devices and browsers that do not support geolocation API's can be gracefully degraded to the current, or a more streamlined version of the current website.
 
-![Figure 3 – Geolocation API behaviour in Firefox](../images/Geoloc-Firefox_large.png)
+![Figure 3 – Geolocation API behaviour in Firefox{{ site.url }}/images/Geoloc-Firefox_large.png)
 
-![Figure 4 - Geolocation API behaviour in Firefox](../images/Geoloc-Firefox2_large.png)
+![Figure 4 - Geolocation API behaviour in Firefox{{ site.url }}/images/Geoloc-Firefox2_large.png)
 
 At this stage Woolworths' major competitors (e.g. Coles) are yet to implement this technology. This presents an opportunity for Woolworths to be the market leader in the use of geographic targeting to deliver relevant information to its customers based on their physical location.
 
@@ -123,9 +123,9 @@ Woolworths does not currently distribute its weekly specials to its customers vi
 
 Currently Woolworths' major competition, Coles, operates an eNewsletter, which Coles uses to convey information about its weekly specials, competitions and other news related to Coles (Fig 5 & 6).
 
-![Figure 5 – Coles eNewsletter Signup](../images/Coles-eNews-SignUp_large.png)
+![Figure 5 – Coles eNewsletter Signup]({{ site.url }}/images/Coles-eNews-SignUp_large.png)
 
-![Figure 6 – Coles eNewsletter detail](../images/Coles-eNews-Detail_large.png)
+![Figure 6 – Coles eNewsletter detail]({{ site.url }}/images/Coles-eNews-Detail_large.png)
 
 Email newsletters are a proven low cost, measurable, communication method. There are numerous Email Marketing service providers who specialises in large scale mass mail-outs for corporate clients, such as Vision6 (Vision6: Our Clients 2010) and Gen3Media (Gen3Media: Corporate 2010). Each of these providers allows for personalisation of the emails sent to each customer based on a number of customisable factors. 
 

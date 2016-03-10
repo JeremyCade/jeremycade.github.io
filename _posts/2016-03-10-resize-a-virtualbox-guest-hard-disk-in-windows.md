@@ -8,7 +8,7 @@ categories: virtualization
 VirtualBox has a nasty little habit of suggesting small virtual Hard disk sizes when creating Guest Virtual Machines.
 Anyone who has worked with Windows guests knows that 25.00 GB is ridiculously small for a standard install of most versions of Windows Server (excluding Windows Server Nano). 
 
-![Figure 1 - Default 25.00 GB Hard disk](../images/Virtulization/VirtualBox-Small-Harddisk.png)
+![Figure 1 - Default 25.00 GB Hard disk]({{ site.url }}/images/Virtulization/VirtualBox-Small-Harddisk.png)
 
 My general rule of thumb is to increase the default Hard disk to between 60 and 80 GB depending on the purpose of the Virtual Machine. Though it is easy to be caught out; And you are now in a position where you will need to resize the guest Hard disk. To complete this task we will make use of the VirtualBox commandline tools. 
 
@@ -18,7 +18,7 @@ The steps below were tested against VirtualBox 5.0.16
 
 Ensure that the guest virtual machine is in a `Powered Off` state.
 
-![Figure 2 - Guest Virtual Machine is Powered Off](../images/Virtulization/VirtualBox-Powered-Off.png)
+![Figure 2 - Guest Virtual Machine is Powered Off]({{ site.url }}/images/Virtulization/VirtualBox-Powered-Off.png)
 
 Backup the guests Hard disk. In my case I created a copy of the guest Hard disk on a separate drive. 
 
@@ -31,7 +31,7 @@ On Windows 10, this can be done by searching for `environment variables` with Co
 
 If it is not present in either the System or User Variables path, add it. My personal preference is to add it to the User variables path as shown in the image below. 
 
-![Figure 3 - Guest Virtual Machine is Powered Off](../images/Virtulization/VirtualBox-Path-Variables.png)
+![Figure 3 - Guest Virtual Machine is Powered Off]({{ site.url }}/images/Virtulization/VirtualBox-Path-Variables.png)
 
 Once completed, Open `powershell` and execute the following:
 

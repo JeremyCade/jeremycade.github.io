@@ -66,7 +66,7 @@ However we may face a time in the future where the continued abstraction of the 
 
 [2] Mary Shaw. "Larger Scale Systems Require Higher-Level Abstractions," Proceedings of the Fifth International Workshop on Software Specifications and Design, published 1989
 
-[3] Trygve Reenskaug. ∑"MVC XEROX PARC 1978-79″, [http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html](http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html)
+[3] Trygve Reenskaug. "MVC XEROX PARC 1978-79″, [http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html](http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html)
 
 [4] Steve McConnell. "Code Complete" Microsoft Press. 1994
 
