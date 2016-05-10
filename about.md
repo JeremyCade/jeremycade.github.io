@@ -5,7 +5,6 @@ title: About
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
 Jeremy is a Father, Husband, overly opinionated Software Engineer and Baseball Coach, living in Brisbane, Australia.
- 
 
 ### Publications
 
@@ -20,7 +19,7 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 - B. Information Technology (Accl), [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
 - M. Information Technology, [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
 
-####Research topics:
+#### Research topics:
 
 - Software Quality and Software Engineering Practices in relation to Cloud Computing
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 

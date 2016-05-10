@@ -23,9 +23,9 @@ Degree completed while working full time. Majoring in Software Development.
 - Software Quality and Software Engineering Practices in relation to Cloud Computing
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
 
-## Work Experience
+## Work
 
-#### 2015 - 2106, Senior Software Architect, SSW
+#### 2015 - 2016, Senior Software Architect, SSW
 
 SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
 
