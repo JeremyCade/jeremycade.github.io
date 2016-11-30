@@ -9,6 +9,7 @@ title: Curriculum Vitae
 **Phone**: +61 (4) 0702 5582
 
 ## Education
+
 ### B. Information Technology, Griffith University, QLD, Australia
 
 3 year degree completed in 2 years, while working full time. 
