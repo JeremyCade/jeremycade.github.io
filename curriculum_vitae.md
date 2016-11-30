@@ -26,6 +26,14 @@ Degree completed while working full time. Majoring in Software Development.
 
 ## Work
 
+#### Current, Senior Software Engineer, Lüp
+
+Lüp provides full-service technology solutions for the Events industry throughout Australia and New Zealand. 
+
+- Team Lead for a distributed multi-cultural, multiple platform team. 
+- Ownership of all technology infrastructure including onsite networking and 1000+ iOS devices. 
+- Ownership of the full technology software stack
+
 #### 2015 - 2016, Senior Software Architect, SSW
 
 SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
