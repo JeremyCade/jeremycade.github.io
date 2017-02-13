@@ -4,7 +4,7 @@ title: About
 ---
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
-Jeremy is a Father of 2 1/2, Husband, overly opinionated Software Engineer, DevOps practitioner, and Baseball Coach.
+Jeremy is a Father of 2 1/2, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and professional trouble maker.
 Currently based in Brisbane, Australia.
 
 ### Publications
