@@ -12,35 +12,37 @@ title: Curriculum Vitae
 
 ### B. Information Technology, Griffith University, QLD, Australia
 
-3 year degree completed in 2 years, while working full time. 
-Majoring in Computers and Intelligent Systems, covering Artificial Intelligence, Multi-agent Systems, Machine Learning and Constraint Satisfaction Techniques. 
+3 year degree completed in 2 years, while working full time.
+Majoring in Computers and Intelligent Systems, covering Artificial Intelligence, Multi-agent Systems, Machine Learning and Constraint Satisfaction Techniques.
 
 ### M. Information Technology, Griffith University, QLD, Australia
 
-Degree completed while working full time. Majoring in Software Development. 
+Degree completed while working full time. Majoring in Software Development.
 
 **Research topics included:**
 
 - Software Quality and Software Engineering Practices in relation to Cloud Computing
-- Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
+- Formal Verification of Finite State Machines (used within robotics, and safety critical systems)
 
 ## Work
 
-#### Current, Senior Software Engineer, Lüp
+#### 2016 - Current, Senior Software Engineer, Lüp
 
-Lüp provides full-service technology solutions for the Events industry throughout Australia and New Zealand. 
+Lüp provides full-service technology solutions for the Events industry throughout Australia and New Zealand.
 
-- Team Lead for a distributed multi-cultural, multiple platform team. 
-- Ownership of all technology infrastructure including onsite networking and 1000+ iOS devices. 
-- Ownership of the full technology software stack
+- Team Lead for a distributed multi-cultural, multiple platform engineering team.
+- Ownership of all technology infrastructure including onsite networking and 1000+ iOS devices.
+- Ownership of the full technology stack
 
 #### 2015 - 2016, Senior Software Architect, SSW
 
-SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
+SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization.
+
+- Consulting and Applicaiton development in a wide range of Corporate, and Government environments.
 
 #### 2003 - 2015, Software Engineer, AussieWeb Pty Ltd
 
-AussieWeb Pty Ltd is a technology company that specializes in developing digital marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
+AussieWeb Pty Ltd is a technology company that specializes in developing digital marketing strategies for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia.
 
 - Management of server and web infrastructure
 - Integration of AussieWeb Ad Management and CRM systems with Google AdWords, Bing Ads and Yahoo Ads API's.
@@ -51,27 +53,27 @@ AussieWeb Pty Ltd is a technology company that specializes in developing digital
 
 #### 2012 - 2015, President, Indians Baseball Club Inc.
 
-Indians Baseball Club is a community based baseball club, located in Brisbane Australia. The President role is an unpaid role, that requires a minimum of 20 hours per week of work. 
+Indians Baseball Club is a community based baseball club, located in Brisbane Australia. The President role is an unpaid role, that requires a minimum of 20 hours per week of work.
 
-- Developed marketing strategies that resulted in the club growing its membership base, and increasing revenue by 15%. Including redesigned online presence, electronic store and payment processing. 
-- Implemented year-round training programs that resulted in higher numbers of junior players returning season on season. 
-- Oversaw the successful planning and execution of the 2014 David Nilsson Little League State Titles. A four day event which generated over $8000 in revenue for the club. 
+- Developed marketing strategies that resulted in the club growing its membership base, and increasing revenue by 15%. Including redesigned online presence, electronic store and payment processing.
+- Implemented year-round training programs that resulted in higher numbers of junior players returning season on season.
+- Oversaw the successful planning and execution of the 2014 David Nilsson Little League State Titles. A four day event which generated over $8000 in revenue for the club.
 
 #### 2002 - 2003, Marketing Manager / Developer, VroomVroomVroom Pty Ltd
 VroomVroomVroom is an online car rental portal that was created in 2002 as a joint venture between AussieWeb Pty Ltd and RentNewCars Pty Ltd.
-The company was later sold to a third party for a sizeable profit. 
+The company was later sold to a third party for a sizeable profit.
 
-- Developed and implemented online marketing strategies that turned $60,000 AUD marketing spend into over $1,000,000 AUD in retail car rental. 
+- Developed and implemented online marketing strategies that turned $60,000 AUD marketing spend into over $1,000,000 AUD in retail car rental.
 
 #### 1998 - 2001, Information Technology Traineeship / Technical Support, ICET Group
-- Provided general technical support for a 50 computer company across a mixed Windows 98, NT 4 network. 
+- Provided general technical support for a 50 computer company across a mixed Windows 98, NT 4 network.
 - Installed and maintained Microsoft Small Business Center
 - Assisted installation and rollout of Microsoft Exchange Server 2000
 
 ## Personal Projects
 
 #### 2003 - 2010, Ozbboy.com
-Ozbboy.com was an online community based around the Breakdancing subculture in Australia. At its height it was one of the largest websites for Breakdancing worldwide, serving over 50,000 unique visits per month, from a shared SQL Server / IIS host. The application was originally developed in classic ASP before moving to Microsoft's .Net platform. 
+Ozbboy.com was an online community based around the Breakdancing subculture in Australia. At its height it was one of the largest websites for Breakdancing worldwide, serving over 50,000 unique visits per month, from a shared SQL Server / IIS host. The application was originally developed in classic ASP before moving to Microsoft's .NET platform.
 
 ## General Interests
 - Baseball Coaching

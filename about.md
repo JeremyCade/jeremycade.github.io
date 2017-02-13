@@ -4,7 +4,8 @@ title: About
 ---
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
-Jeremy is a Father, Husband, overly opinionated Software Engineer and Baseball Coach, living in Brisbane, Australia.
+Jeremy is a Father of 2 1/2, Husband, overly opinionated Software Engineer, DevOps practitioner, and Baseball Coach.
+Currently based in Brisbane, Australia.
 
 ### Publications
 
@@ -22,15 +23,21 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 #### Research topics:
 
 - Software Quality and Software Engineering Practices in relation to Cloud Computing
-- Formal Verification of Finite State Machines (used within robotics, and safety critical systems) 
+- Formal Verification of Finite State Machines (used within robotics, and safety critical systems)
 
-### Previous Work - SSW
+### Current - Lüp Events (Team Lead)
 
-SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization. 
+Lüp provides online, mobile, event management and lead generation technologies and services to large scale Conferences, Consumer & Trade Events in Australian and New Zealand.
 
-### Previous Work - AussieWeb
+### Previous Work - SSW (Senior Consultant)
 
-AussieWeb Pty Ltd is a technology company that specializes in developing digital marketing campaigns for small-medium enterprises in Australia. AussieWeb Pty Ltd is one of only 16 Google AdWords partners in Australia. 
+SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization.
+Primiarly providing Consulting and SCRUM guidance to SME and Corporate Australia.
+
+### Previous Work - AussieWeb (Software Engineer)
+
+AussieWeb is a data driven engineering organisation that provides digital marketing expertise to small-medium enterprises (SME) Asia Pacific.
+AussieWeb is one of only 16 Google AdWords partners in Australia.
 
 ### Baseball
 
