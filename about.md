@@ -4,7 +4,7 @@ title: About
 ---
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
-Jeremy is a Father of 2 1/2, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and professional trouble maker.
+Jeremy is a Father of 2 3/4, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and professional trouble maker.
 Currently based in Brisbane, Australia.
 
 ### Publications
@@ -27,7 +27,7 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 
 ### Current - Lüp Events (Team Lead)
 
-Lüp provides online, mobile, event management and lead generation technologies and services to large scale Conferences, Consumer & Trade Events in Australian and New Zealand.
+Lüp provides online, mobile, event management and lead generation technologies and services to large scale Conferences, Consumer & Trade Events in Australia and New Zealand.
 
 ### Previous Work - SSW (Senior Consultant)
 
