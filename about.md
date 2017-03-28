@@ -25,16 +25,19 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 - Software Quality and Software Engineering Practices in relation to Cloud Computing
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems)
 
-### Current - Lüp Events (Team Lead)
+### Current
+#### Lüp Events (Team Lead)
 
 Lüp provides online, mobile, event management and lead generation technologies and services to large scale Conferences, Consumer & Trade Events in Australia and New Zealand.
 
-### Previous Work - SSW (Senior Consultant)
+### Previous Work
+
+#### SSW (Senior Consultant)
 
 SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization.
 Primiarly providing Consulting and SCRUM guidance to SME and Corporate Australia.
 
-### Previous Work - AussieWeb (Software Engineer)
+#### AussieWeb (Software Engineer)
 
 AussieWeb is a data driven engineering organisation that provides digital marketing expertise to small-medium enterprises (SME) Asia Pacific.
 AussieWeb is one of only 16 Google AdWords partners in Australia.
