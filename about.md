@@ -4,7 +4,7 @@ title: About
 ---
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
-Jeremy is a Father of 2 3/4, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and professional trouble maker.
+Jeremy is a Father of 3, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and professional trouble maker.
 Currently based in Brisbane, Australia.
 
 ### Publications
@@ -26,7 +26,7 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems)
 
 ### Current
-#### Lüp Events (Team Lead)
+#### Lüp Events (Chief Trouble Maker)
 
 Lüp provides online, mobile, event management and lead generation technologies and services to large scale Conferences, Consumer & Trade Events in Australia and New Zealand.
 
@@ -35,7 +35,7 @@ Lüp provides online, mobile, event management and lead generation technologies 
 #### SSW (Senior Consultant)
 
 SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization.
-Primiarly providing Consulting and SCRUM guidance to SME and Corporate Australia.
+Primarily providing Consulting and SCRUM guidance to SME and Corporate Australia.
 
 #### AussieWeb (Software Engineer)
 
