@@ -2,7 +2,7 @@
 layout: post
 title:  "ALT.NET is the new modus operandi!"
 date:   2017-05-22
-categories: netcore
+categories: altnet
 ---
 
 I write software with C# in a Text Editor on Mac OS.
