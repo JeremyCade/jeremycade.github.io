@@ -32,7 +32,7 @@ Lüp provides online, mobile, event management and lead generation technologies 
 
 ### Previous Work
 
-#### 2016 - SSW (Senior Consultant)
+#### 2016 - SSW (Senior Software Architect)
 
 SSW is a Microsoft Gold Partner in Application Development, Application Lifecycle Management, Collaboration and Content, Digital Advertising and Management and Visualization.
 Primarily providing Consulting and SCRUM guidance to SME and Corporate Australia.
