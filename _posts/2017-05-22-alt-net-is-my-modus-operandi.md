@@ -5,15 +5,15 @@ date:   2017-05-22
 categories: netcore
 ---
 
-I write software with C# in a Text Editor on Mac OS. No Visual Studio.
+I write software with C# in a Text Editor on Mac OS.
 
-The software I build is small, modular and self-contained. No monoliths.
+The software I build is small, modular and self-contained.
 
-All SCM is via the command line, using the tools the way they were designed.
+All SCM is via the commandline, using the tools the way they were designed.
 
-Continuous Integration runs on Windows Server and Ubuntu, and the builds are well defined in code, that is checked in with the repository. No XML in sight.
+Continuous Integration builds run on Windows Server and Ubuntu.
 
-Deployment targets (Windows Server, Ubuntu, Docker Containers, App Service) are defined and managed with code.
+My Deployment targets (Windows Server, Ubuntu, Docker Containers, App Service) are defined and managed with code.
 
 ALMOST everything I use is Open Source (to varying degrees).
 
@@ -21,11 +21,11 @@ ALMOST everything I use is Open Source (to varying degrees).
 
 It's been 10 years since the ALT.NET phrase was coined.
 
-In 2007 .NET as a whole was a very different beast. .NET 3.5 shipped with Visual Studio 2008 in November 2007, followed by ASP.NET MVC CTP in December of the same year.Though most of us where still drudging through VB.NET & C# .NET 1.1 and .NET 2.0 code bases in Visual Studio 2005. Which needed a number of service packs installed before it was useful. Web Forms and Windows Forms were the bane of my existence, both exceptionally difficult to test.
+In 2007 .NET as a whole was a very different beast. .NET 3.5 shipped with Visual Studio 2008 in November 2007, followed by ASP.NET MVC CTP in December of the same year. Though most of us where still drudging through VB.NET & C# .NET 1.1 and .NET 2.0 code bases in Visual Studio 2005. Which needed a number of service packs installed before it was useful. Web Forms and Windows Forms were the bane of my existence, both exceptionally difficult to test.
 
 Windows Vista or Windows XP were the operating Systems of choice.
 
-At the time, there were a lot of discussions around technology choice; e.g. You are an ALT.NET practitioner if you used Resharper (or CodeRush), or NHibernate, or a RDBMS that wasn't SQL Server.
+At that time, there were a lot of discussions around technology choice; e.g. You are an ALT.NET practitioner if you used Resharper (or CodeRush), or NHibernate, or a RDBMS that wasn't SQL Server.
 
 Though for me it was always more about choice.
 
