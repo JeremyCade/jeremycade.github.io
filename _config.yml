@@ -16,7 +16,7 @@ author:
   name:           'Jeremy Cade'
   url:            http://www.jeremycade.com
 
-paginate:         5
+paginate:         1
 
 # Additional Gems
 gems:
