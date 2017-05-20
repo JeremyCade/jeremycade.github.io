@@ -11,9 +11,7 @@ The software I build is small, modular and self-contained. No monoliths.
 
 All SCM is via the command line, using the tools the way they were designed.
 
-My builds are defined in code.
-
-Continuous Integration runs on Windows Server and Ubuntu.
+Continuous Integration runs on Windows Server and Ubuntu, and the builds are well defined in code, that is checked in with the repository. No XML in sight.
 
 Deployment targets (Windows Server, Ubuntu, Docker Containers, App Service) are defined and managed with code.
 
