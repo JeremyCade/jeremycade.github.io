@@ -21,9 +21,7 @@ ALMOST everything I use is Open Source (to varying degrees).
 
 It's been 10 years since the ALT.NET phrase was coined.
 
-In 2007 .NET as a whole was a very different beast. .NET 3.5 shipped with Visual Studio 2008 in November, followed by ASP.NET MVC CTP in December.
-
-Though most of us where still drudging through VB.NET & C# .NET 1.1 and .NET 2.0 code bases. Visual Studio 2005, need a number of service backs before it was useful. Web Forms and Windows Forms were the bane of my existence.
+In 2007 .NET as a whole was a very different beast. .NET 3.5 shipped with Visual Studio 2008 in November 2007, followed by ASP.NET MVC CTP in December of the same year.Though most of us where still drudging through VB.NET & C# .NET 1.1 and .NET 2.0 code bases in Visual Studio 2005. Which needed a number of service packs installed before it was useful. Web Forms and Windows Forms were the bane of my existence, both exceptionally difficult to test.
 
 Windows Vista or Windows XP were the operating Systems of choice.
 
