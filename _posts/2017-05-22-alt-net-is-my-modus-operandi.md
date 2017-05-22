@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ALT.NET is the my modus operandi!"
+title:  "ALT.NET is my modus operandi!"
 date:   2017-05-22
 categories: altnet
 ---
