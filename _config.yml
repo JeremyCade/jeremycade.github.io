@@ -10,7 +10,7 @@ title:            What?
 tagline:          "I'm sorry, but that didn't make any sense."
 description:      'The incoherent ramblings of a Father, Software Engineer, Baseball Coach and all round オタク.'
 url:              http://www.jeremycade.com
-baseurl:          /
+baseurl:          http://www.jeremycade.com
 
 author:
   name:           'Jeremy Cade'
