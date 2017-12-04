@@ -44,7 +44,7 @@ AussieWeb is one of only 16 Google AdWords partners in Australia.
 
 ### Baseball
 
-Jeremy is a NCAS 4 Baseball Coach with [Indians Baseball Club](http://www.indians.org.au) and is part of the coaching staff for the [Brisbane South Baseball Association](http://bsba.baseball.com.au) Little League Charter All Star Teams
+Jeremy is the Chairman of the Board of Baseball Queensland, as well as being a NCAS 4 Baseball Coach with [Indians Baseball Club](http://www.indians.org.au) and [Brisbane South Baseball Association](http://bsba.baseball.com.au) All Star Teams.
 
 ### Contact
 
