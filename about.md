@@ -34,7 +34,7 @@ High Performance Testing Systems for High Perforamance Atheletes, Allied Health 
 
 ### Previous Work
 
-#### Lüp Events (Chief Trouble Maker)
+#### 2017-18 Lüp Events (Senior Software Engineer)
 
 Lüp provides online, mobile, event management and lead generation technologies and services to large scale Conferences, Consumer & Trade Events in Australia and New Zealand.
 
@@ -50,7 +50,7 @@ AussieWeb is one of only 16 Google AdWords partners in Australia.
 
 ### Baseball
 
-Jeremy is the Chairman of the Board of Baseball Queensland, as well as being a NCAS 4 Baseball Coach with [Indians Baseball Club](http://www.indians.org.au) and [Brisbane South Baseball Association](http://bsba.baseball.com.au) All Star Teams.
+Jeremy is the Commissioner (Chairman) of the Board of Baseball Queensland, A NCAS 4 Baseball Coach, and Life Member of [Indians Baseball Club](http://www.indians.org.au).
 
 ### Contact
 
