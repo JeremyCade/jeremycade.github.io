@@ -4,7 +4,8 @@ title: About
 ---
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
-Jeremy is a Father of 3, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and professional trouble maker.
+Jeremy is a Father of 3, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and Professional Trouble Maker.
+
 Currently based in Brisbane, Australia.
 
 ### Publications
@@ -26,11 +27,16 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 - Formal Verification of Finite State Machines (used within robotics, and safety critical systems)
 
 ### Current
+
+#### Vald Performance (Head of Software)
+
+High Performance Testing Systems for High Perforamance Atheletes, Allied Health and Strength and Conditioning Professionals. 
+
+### Previous Work
+
 #### Lüp Events (Chief Trouble Maker)
 
 Lüp provides online, mobile, event management and lead generation technologies and services to large scale Conferences, Consumer & Trade Events in Australia and New Zealand.
-
-### Previous Work
 
 #### 2016 - SSW (Senior Software Architect)
 
