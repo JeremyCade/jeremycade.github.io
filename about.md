@@ -18,8 +18,8 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 
 ### Education
 
-- B. Information Technology (Accl), [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
-- M. Information Technology, [Griffith Univeristy](http://www.griffith.edu.au), QLD, Australia
+- B. Information Technology (Accl), [Griffith University](http://www.griffith.edu.au), QLD, Australia
+- M. Information Technology, [Griffith University](http://www.griffith.edu.au), QLD, Australia
 
 #### Research topics:
 
@@ -28,9 +28,13 @@ Machine Intelligence and Pattern Analysis Laboratory ([MiPAL](http://www.mipal.n
 
 ### Current
 
-#### Vald Performance (Head of Software)
+#### Octopus Deploy (Cephalopod)
 
-High Performance Testing Systems for High Perforamance Atheletes, Allied Health and Strength and Conditioning Professionals. 
+A friendly Automation and Release Orchestration system.
+
+#### Vald Performance (Head of Software / Consultant)
+
+High Performance Testing Systems for High Performance Athletes, Allied Health and Strength and Conditioning Professionals.
 
 ### Previous Work
 
@@ -56,4 +60,4 @@ Jeremy is the Commissioner (Chairman) of the Board of Baseball Queensland, A NCA
 
 **Phone**: [+61 407 025 582](tel://+61407025582)<br />
 **Email**: [me@jeremycade.com](mailto://me@jeremycade.com)<br />
-**Social**: [Twitter](https://twitter.com/jcade83) | [LinkedIn](http://au.linkedin.com/in/jeremycade) | [Google+](https://plus.google.com/+JeremyCade/) | [GitHub](https://github.com/JeremyCade)
+**Social**: [Twitter](https://twitter.com/jcade83) | [LinkedIn](http://au.linkedin.com/in/jeremycade) | [GitHub](https://github.com/JeremyCade)
