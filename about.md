@@ -49,7 +49,7 @@ Primarily providing Consulting and SCRUM guidance to SME and Corporate Australia
 
 #### 2002-16 AussieWeb (Software Engineer)
 
-AussieWeb is a data driven engineering organisation that provides digital marketing expertise to small-medium enterprises (SME) Asia Pacific.
+AussieWeb is a data driven engineering organisation that provides digital marketing expertise to small-medium enterprises (SME) in Asia Pacific and Oceania.
 AussieWeb is one of only 16 Google AdWords partners in Australia.
 
 ### Baseball
