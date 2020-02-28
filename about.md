@@ -4,9 +4,9 @@ title: About
 ---
 
 <img src="../images/JeremyCa.jpg" title="Jeremy Cade" class="right">
-Jeremy is a Father of 3, Husband, overly opinionated Software Engineer, DevOps Practitioner, Baseball Coach and Professional Trouble Maker.
+Jeremy is a Father of 3, Husband, overly opinionated Software Engineer and Professional Trouble Maker.
 
-Currently based in Brisbane, Australia.
+Based in Brisbane, Australia.
 
 ### Publications
 
@@ -34,7 +34,7 @@ A friendly Automation and Release Orchestration system.
 
 #### Vald Performance (Head of Software / Consultant)
 
-High Performance Testing Systems for High Performance Athletes, Allied Health and Strength and Conditioning Professionals.
+Athletic Testing Systems for High Performance Athletes, Allied Health and Strength and Conditioning Professionals.
 
 ### Previous Work
 
@@ -49,8 +49,7 @@ Primarily providing Consulting and SCRUM guidance to SME and Corporate Australia
 
 #### 2002-16 AussieWeb (Software Engineer)
 
-AussieWeb is a data driven engineering organisation that provides digital marketing expertise to small-medium enterprises (SME) in Asia Pacific and Oceania.
-AussieWeb is one of only 16 Google AdWords partners in Australia.
+AussieWeb is a data driven engineering organisation that provides digital marketing expertise to small-medium enterprises (SME) in the Asia Pacific and Oceania (APAC) region.
 
 ### Baseball
 
