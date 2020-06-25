@@ -51,9 +51,9 @@ Primarily providing Consulting and SCRUM guidance to SME and Corporate Australia
 
 AussieWeb is a data driven engineering organisation that provides digital marketing expertise to small-medium enterprises (SME) in the Asia Pacific and Oceania (APAC) region.
 
-### Baseball
+### Sport
 
-Jeremy is the Commissioner (Chairman) of the Board of Baseball Queensland, A NCAS 4 Baseball Coach, and Life Member of [Indians Baseball Club](http://www.indians.org.au).
+Jeremy is a Director of [Judo Queensland](https://www.judoqueensland.org.au/home/), Has previously been the Commissioner (Chairman) of [Baseball Queensland](https://www.baseballqueensland.com.au/) and is a Life Member of [Indians Baseball Club](http://www.indians.org.au).
 
 ### Contact
 
